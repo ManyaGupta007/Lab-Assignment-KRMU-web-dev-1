@@ -1,10 +1,10 @@
 :root {
-   --primary-color: #6B1A27;    /* Rich Burgundy */
-   --primary-dark: #450F17;     /* Deeper Wine */
-   --accent-color: #D4AF37;     /* Metallic Gold */
-   --text-dark: #2C2C2C;        /* Dark Gray */
-   --text-light: #726F73;       /* Soft Gray */
-   --bg-light: #F5F2F0;         /* Warm cream */
+   --primary-color: #6B1A27;    
+   --primary-dark: #450F17;     
+   --accent-color: #D4AF37;     
+   --text-dark: #2C2C2C;       
+   --text-light: #726F73;       
+   --bg-light: #F5F2F0;        
    --white: #FFFFFF;
     --font-heading: 'Montserrat', sans-serif;
     --font-body: 'Open Sans', sans-serif;
@@ -499,3 +499,4 @@ footer {
     .section-title { font-size: 1.8rem; }
     .grid-container { grid-template-columns: 1fr; }
 }
+
